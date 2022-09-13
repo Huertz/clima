@@ -13,7 +13,7 @@ I builded this project becuase I wanted to better understand the concepts of Jav
 - What problem does it solve?  
 
 - What did you learn?
-I learned more concepts complicated concepts of JavaScript. I also learned how to navigate thouhgt a data base using fetch. 
+I learned more concepts complicated concepts of JavaScript. I also learned how to navigate thouthg a data base using fetch. 
 
 ## Table of Contents (Optional)
 
@@ -48,7 +48,7 @@ THEN I am again presented with current and future conditions for that city
 
 ## Usage
 
-  [Website link]()
+  [Website link](https://huertz.github.io/clima/)
 
   `assets/images`
    md ![alt text](./assets/Weather-Dashboard.png)
@@ -57,16 +57,11 @@ THEN I am again presented with current and future conditions for that city
 
 If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
-[JQuery]()
+[JQuery](https://jquery.com/)
 
-[Moments.js]()
+[Moments.js](https://momentjs.com/)
 
-[Bootstap]()
-
-[parseInt]()
-
-[attr]()
-
+[Bootstap](https://getbootstrap.com/)
 
 
 ## License
