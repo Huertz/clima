@@ -51,7 +51,7 @@ THEN I am again presented with current and future conditions for that city
   [Website link]()
 
   `assets/images`
-   md ![alt text](./assets/)
+   md ![alt text](./assets/Weather-Dashboard.png)
 
 ## Credits
 
