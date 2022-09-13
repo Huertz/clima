@@ -11,6 +11,7 @@ My motivation for this project is to able to understand more the concepts of Jav
 I builded this project becuase I wanted to better understand the concepts of JavaScript. 
 
 - What problem does it solve?  
+At the moement it does not solve any problem 
 
 - What did you learn?
 I learned more concepts complicated concepts of JavaScript. I also learned how to navigate thouthg a data base using fetch. 
