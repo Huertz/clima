@@ -7,7 +7,7 @@ function findCity() {
   .then((response) => response.json())
   .then((data) => { 
     console.log(data.main.temp)
-    futureClima (data.coord.lon, data.coord.lat) 
+    // futureClima (data.coord.lon, data.coord.lat) 
 });
 
 }
@@ -16,13 +16,13 @@ $('#search-button').on('click', findCity);
 
 
 
-function futureClima(lon,lat) {
-    var apiURL =  
-    fetch(apiURL)
-  .then((response) => response.json())
-  .then((data) => { 
-    console.log(data) 
-});
-}
+// function futureClima(lon,lat) {
+//     var apiURL =  
+//     fetch(apiURL)
+//   .then((response) => response.json())
+//   .then((data) => { 
+//     console.log(data) 
+// });
+// }
 
 // data.list[0].dt_txt.split(' ')[1]
